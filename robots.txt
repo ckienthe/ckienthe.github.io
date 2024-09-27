@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ckienthe.github.io/sitemap.ckienthe.gz
+Sitemap: https://ckienthe.github.io/app/sitemap.ckienthe.gz
+Sitemap: https://ckienthe.github.io/assets/sitemap.ckienthe.gz
+Sitemap: https://ckienthe.github.io/css/sitemap.ckienthe.gz
+Sitemap: https://ckienthe.github.io/data/sitemap.ckienthe.gz
+Sitemap: https://ckienthe.github.io/includes/sitemap.ckienthe.gz
+Sitemap: https://ckienthe.github.io/item/sitemap.ckienthe.gz
+Sitemap: https://ckienthe.github.io/src/sitemap.ckienthe.gz
